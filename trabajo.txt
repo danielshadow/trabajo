@@ -1,0 +1,19 @@
+===Base de datos trabajo
+
+== Estructura de tabla para la tabla articulos
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|//**id**//|int(20)|No|
+|cod_bar|int(200)|No|
+|nombre|varchar(30)|No|
+|precio|int(30)|No|
+== Volcado de datos para la tabla articulos
+
+|1|0|audifonos|20000
+|5|0|telefono|50000
+|118|0|mekanica|338844
+|119|0|megafono|400000
+|120|0|megafono|400000
+|121|0|televisor|5940000
